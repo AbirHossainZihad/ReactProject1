@@ -1,0 +1,57 @@
+[
+    {
+        "followers": "240452",
+        "solvedProblems": "6300",
+        "happyCustomers": "25000",
+        "projects": "360452"
+    },
+    {
+        "img1": "../images/Mask.png",
+        "img2": "../images/Mask (1).png",
+        "img3": "../images/Mask (2).png",
+        "img4": "../images/Mask (3).png",
+        "img5": "../images/Mask (4).png"
+    },
+    {
+        "img1": "../images/Rectangle 2093.png",
+        "img2": "../images/Rectangle 2093 (1).png",
+        "img3": "../images/Rectangle 2093 (2).png",
+        "name1": "Devon Lane",
+        "name2": "Danny Bailey",
+        "name3": "Alex Lov"
+    },
+    {
+        "img1": "../images/Rectangle 2095.png",
+        "img2": "../images/Rectangle 2096.png",
+        "img3": "../images/Rectangle 2097.png",
+        "img4": "../images/Rectangle 2098.png",
+        "img5": "../images/Rectangle 2095 (1).png",
+        "img6": "../images/Rectangle 2096 (1).png",
+        "img7": "../images/Rectangle 2097 (1).png",
+        "img8": "../images/Rectangle 2098 (1).png",
+        "img9": "../images/Rectangle 2095 (2).png",
+        "img10": "../images/Rectangle 2096 (2).png",
+        "img11": "../images/Rectangle 2097 (2).png",
+        "img12": "../images/Rectangle 2098 (2).png",
+        "img13": "../images/Rectangle 2095 (3).png",
+        "img14": "../images/Rectangle 2096 (3).png",
+        "img15": "../images/Rectangle 2097 (3).png",
+        "img16": "../images/Rectangle 2097 (4).png"
+    },
+    {
+        "img1": "../images/rt1.png",
+        "img2": "../images/rt2.png",
+        "img3": "../images/rt3.png",
+        "img4": "../images/rt4.png",
+        "img5": "../images/rt5.png",
+        "img6": "../images/rt6.png"
+    },
+    {
+        "img1": "../images/ts2.png",
+        "img2": "../images/ts1.png",
+        "img3": "../images/ts3.png",
+        "img4": "../images/ts4.png",
+        "img5": "../images/ts5.png",
+        "img6": "../images/ts6.png"
+    }
+]
